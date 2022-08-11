@@ -1,0 +1,18 @@
+:root{
+  --text-color: #091540;
+  --lighter-text-color:#4f5776;
+  --darker-background-color: #9ea2b4;
+  --background-color: #f8f7f9;
+}
+
+* {
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-style:'Open Sans', sans-serif;
+}
+
+body{
+  background-color: #f8f7f9;
+  color: #091540;
+}
